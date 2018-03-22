@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE xml>
+<HotelCatalog>
+<hotel id="Atlantis" retailer="ReserveMyRoom">
+	<name>Atlantis</name>
+	<rooms>
+		<room name="DeluxeGuestRoom" roomcount="8" roomprice="225">
+			<roomimage>/Hotels/Atlantis/DeluxeGuestRoom/image1.jpg</roomimage>
+			<roomimage>/Hotels/Atlantis/DeluxeGuestRoom/image2.jpg</roomimage>
+			<roomimage>/Hotels/Atlantis/DeluxeGuestRoom/image3.jpg</roomimage>
+		</room>
+		<room name="OceanDeluxeGuestRoom" roomcount="10" roomprice="250">
+			<roomimage>/Hotels/Atlantis/OceanDeluxeGuestRoom/image1.jpg</roomimage>
+			<roomimage>/Hotels/Atlantis/OceanDeluxeGuestRoom/image2.jpg</roomimage>
+		</room>
+		<room name="PalmBeachDeluxeGuestRoom" roomcount="6" roomprice="375">
+			<roomimage>/Hotels/Atlantis/PalmBeachDeluxeGuestRoom/image1.jpg</roomimage>
+			<roomimage>/Hotels/Atlantis/PalmBeachDeluxeGuestRoom/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/Atlantis/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/Atlantis/image2.jpg</hotelimage>
+		<hotelimage>/Hotels/Atlantis/image3.jpg</hotelimage>
+		<hotelimage>/Hotels/Atlantis/image4.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>00000</pincode>
+	<address1>One Casino Drive Suite 59</address1>
+	<address2></address2>
+	<city>Paradise Island</city>
+	<state>Bahamas</state>
+	<phonenumber>8888777525</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="AustriaTrendHotel" retailer="ReserveMyRoom">
+	<name>Austria Trend Hotel</name>
+	<rooms>
+		<room name="PremiumSuite" roomcount="4" roomprice="185">
+			<roomimage>/Hotels/AustriaTrendHotel/PremiumSuite/image1.jpg</roomimage>
+			<roomimage>/Hotels/AustriaTrendHotel/PremiumSuite/image2.jpg</roomimage>
+		</room>
+		<room name="Suite" roomcount="12" roomprice="200">
+			<roomimage>/Hotels/AustriaTrendHotel/Suite/image1.jpg</roomimage>
+		</room>
+		<room name="TowerRoom" roomcount="8" roomprice="225">
+			<roomimage>/Hotels/AustriaTrendHotel/TowerRoom/image1.jpg</roomimage>			
+		</room>
+		<room name="TraditionalGuestRoom" roomcount="5" roomprice="250">
+			<roomimage>/Hotels/AustriaTrendHotel/TraditionalGuestRoom/image1.jpg</roomimage>			
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/AustriaTrendHotel/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>1010</pincode>
+	<address1>Kaerntner Strasse 18</address1>
+	<address2>Eingang Neuer Markt 3</address2>
+	<city>Vienna</city>
+	<state>Austria</state>
+	<phonenumber>4351577100</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="Bellagio" retailer="ReserveMyRoom">
+	<name>Bellagio Hotel and Casino</name>
+	<rooms>
+		<room name="ResortTowerKing" roomcount="18" roomprice="155">
+			<roomimage>/Hotels/Bellagio/ResortTowerKing/image1.jpg</roomimage>
+			<roomimage>/Hotels/Bellagio/ResortTowerKing/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/Bellagio/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>89109</pincode>
+	<address1>3600 S Las Vegas Blvd</address1>
+	<address2></address2>
+	<city>Las Vegas</city>
+	<state>Nevada</state>
+	<phonenumber>7026937111</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="BostonParkPlaza" retailer="ReserveMyRoom">
+	<name>Boston Park Plaza</name>
+	<rooms>
+		<room name="Deluxe" roomcount="22" roomprice="175">
+			<roomimage>/Hotels/BostonParkPlaza/Deluxe/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/BostonParkPlaza/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/BostonParkPlaza/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>02116</pincode>
+	<address1>50 Park Plaza</address1>
+	<address2></address2>
+	<city>Boston</city>
+	<state>Massachusetts</state>
+	<phonenumber>6174262000</phonenumber>
+	<onSale>No</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="CaesarsPalace" retailer="ReserveMyRoom">
+	<name>Caesars Palace</name>
+	<rooms>
+		<room name="Standard" roomcount="24" roomprice="345">
+			<roomimage>/Hotels/CaesarsPalace/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/CaesarsPalace/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/CaesarsPalace/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>89109</pincode>
+	<address1>3570 S Las Vegas Blvd</address1>
+	<address2></address2>
+	<city>Las Vegas</city>
+	<state>Nevada</state>
+	<phonenumber>8662275938</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="CircusCircus" retailer="ReserveMyRoom">
+	<name>Circus Circus</name>
+	<rooms>
+		<room name="CasinoTowerRooms" roomcount="15" roomprice="255">
+			<roomimage>/Hotels/CircusCircus/CasinoTowerRooms/image1.jpg</roomimage>
+		</room>
+		<room name="Suite" roomcount="15" roomprice="285">
+			<roomimage>/Hotels/CircusCircus/Suite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/CircusCircus/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/CircusCircus/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>89109</pincode>
+	<address1>2880 S Las Vegas Blvd</address1>
+	<address2></address2>
+	<city>Las Vegas</city>
+	<state>Nevada</state>
+	<phonenumber>8006343450</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="ConradChicago" retailer="ReserveMyRoom">
+	<name>Conrad Chicago</name>
+	<rooms>
+		<room name="MichiganAvenueView" roomcount="18" roomprice="195">
+			<roomimage>/Hotels/ConradChicago/MichiganAvenueView/image1.jpg</roomimage>
+			<roomimage>/Hotels/ConradChicago/MichiganAvenueView/image2.jpg</roomimage>
+			<roomimage>/Hotels/ConradChicago/MichiganAvenueView/image3.jpg</roomimage>
+		</room>
+		<room name="SuperiorRoom" roomcount="22" roomprice="220">
+			<roomimage>/Hotels/ConradChicago/SuperiorRoom/image1.jpg</roomimage>
+			<roomimage>/Hotels/ConradChicago/SuperiorRoom/image2.jpg</roomimage>
+			<roomimage>/Hotels/ConradChicago/SuperiorRoom/image3.jpg</roomimage>
+		</room>
+		<room name="UltraKingBed" roomcount="12" roomprice="325">
+			<roomimage>/Hotels/ConradChicago/UltraKingBed/image1.jpg</roomimage>
+			<roomimage>/Hotels/ConradChicago/UltraKingBed/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/ConradChicago/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/ConradChicago/image2.jpg</hotelimage>
+		<hotelimage>/Hotels/ConradChicago/image3.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>60611</pincode>
+	<address1>101 E Erie St</address1>
+	<address2></address2>
+	<city>Chicago</city>
+	<state>Illinois</state>
+	<phonenumber>3126676700</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="HardRockHotelChicago" retailer="ReserveMyRoom">
+	<name>Hard Rock Hotel Chicago</name>
+	<rooms>
+		<room name="ExtremeSuite" roomcount="12" roomprice="155">
+			<roomimage>/Hotels/HardRockHotelChicago/ExtremeSuite/image1.jpg</roomimage>
+		</room>
+		<room name="StudioSuites" roomcount="20" roomprice="220">
+			<roomimage>/Hotels/HardRockHotelChicago/StudioSuites/image1.jpg</roomimage>
+		</room>
+		<room name="TowerSuites" roomcount="18" roomprice="315">
+			<roomimage>/Hotels/HardRockHotelChicago/TowerSuites/image1.jpg</roomimage>
+		</room>
+		<room name="ThePenthouseSuite" roomcount="25" roomprice="420">
+			<roomimage>/Hotels/HardRockHotelChicago/ThePenthouseSuite/image1.jpg</roomimage>
+			<roomimage>/Hotels/HardRockHotelChicago/ThePenthouseSuite/image2.jpg</roomimage>
+			<roomimage>/Hotels/HardRockHotelChicago/ThePenthouseSuite/image3.jpg</roomimage>
+			<roomimage>/Hotels/HardRockHotelChicago/ThePenthouseSuite/image4.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/HardRockHotelChicago/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>60601</pincode>
+	<address1>230 N Michigan Ave</address1>
+	<address2></address2>
+	<city>Chicago</city>
+	<state>Illinois</state>
+	<phonenumber>3123451000</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="ConradIndianapolis" retailer="ReserveMyRoom">
+	<name>Conrad Indianapolis</name>
+	<rooms>
+		<room name="Deluxe" roomcount="28" roomprice="149">
+			<roomimage>/Hotels/ConradIndianapolis/Deluxe/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/ConradIndianapolis/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/ConradIndianapolis/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>No</wifi>
+	<restaurant>No</restaurant>
+	<pincode>46204</pincode>
+	<address1>50 W Washington St</address1>
+	<address2></address2>
+	<city>Indianapolis</city>
+	<state>Indiana</state>
+	<phonenumber>3177135000</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="DisneylandHotel" retailer="ReserveMyRoom">
+	<name>Disneyland Hotel</name>
+	<rooms>
+		<room name="StandardView" roomcount="24" roomprice="388">
+			<roomimage>/Hotels/DisneylandHotel/StandardView/image1.jpg</roomimage>
+		</room>
+		<room name="PremiumView" roomcount="22" roomprice="507">
+			<roomimage>/Hotels/DisneylandHotel/PremiumView/image1.jpg</roomimage>
+			<roomimage>/Hotels/DisneylandHotel/PremiumView/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/DisneylandHotel/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>92802</pincode>
+	<address1>1150 West Magic Way</address1>
+	<address2></address2>
+	<city>Anaheim</city>
+	<state>California</state>
+	<phonenumber>7147786600</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="DoubleTreebyHiltonHotelSuitesJerseyCity" retailer="ReserveMyRoom">
+	<name>DoubleTree by Hilton Hotel Suites Jersey City</name>
+	<rooms>
+		<room name="JuniorSuite" roomcount="17" roomprice="144">
+			<roomimage>/Hotels/DoubleTreebyHiltonHotelSuitesJerseyCity/JuniorSuite/image1.jpg</roomimage>
+		</room>
+		<room name="PremiumSuite" roomcount="14" roomprice="225">
+			<roomimage>/Hotels/DoubleTreebyHiltonHotelSuitesJerseyCity/PremiumSuite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/DoubleTreebyHiltonHotelSuitesJerseyCity/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>07310</pincode>
+	<address1>455 Washington Blvd</address1>
+	<address2></address2>
+	<city>Jersey City</city>
+	<state>New Jersey</state>
+	<phonenumber>2014992400</phonenumber>
+	<onSale>No</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="DoubleTreeSuitesbyHiltonHotelAustin" retailer="ReserveMyRoom">
+	<name>DoubleTree Suites by Hilton Hotel Austin</name>
+	<rooms>
+		<room name="EXECUTIVESUITE" roomcount="13" roomprice="400">
+			<roomimage>/Hotels/DoubleTreeSuitesbyHiltonHotelAustin/EXECUTIVESUITE/image1.jpg</roomimage>
+		</room>
+		<room name="ONEBEDROOMSUITE" roomcount="25" roomprice="550">
+			<roomimage>/Hotels/DoubleTreeSuitesbyHiltonHotelAustin/ONEBEDROOMSUITE/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/DoubleTreeSuitesbyHiltonHotelAustin/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/DoubleTreeSuitesbyHiltonHotelAustin/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>78701</pincode>
+	<address1>303 W 15th St</address1>
+	<address2></address2>
+	<city>Austin</city>
+	<state>Texas</state>
+	<phonenumber>5124787000</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="FrenchLickSpringsHotel" retailer="ReserveMyRoom">
+	<name>French Lick Springs Hotel</name>
+	<rooms>
+		<room name="Suite" roomcount="22" roomprice="530">
+			<roomimage>/Hotels/FrenchLickSpringsHotel/Suite/image1.jpg</roomimage>
+		</room>
+		<room name="TraditionalGuestRoom" roomcount="15" roomprice="320">
+			<roomimage>/Hotels/FrenchLickSpringsHotel/TraditionalGuestRoom/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/FrenchLickSpringsHotel/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/FrenchLickSpringsHotel/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>47432</pincode>
+	<address1>8670 IN 56</address1>
+	<address2></address2>
+	<city>French Lick</city>
+	<state>Indiana</state>
+	<phonenumber>8129369300</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="GatewayCanyonsResortAndSpa" retailer="ReserveMyRoom">
+	<name>Gateway Canyons Resort And Spa</name>
+	<rooms>
+		<room name="DeluxeRoom1KingBed" roomcount="15" roomprice="288">
+			<roomimage>/Hotels/GatewayCanyonsResortAndSpa/DeluxeRoom1KingBed/image1.jpg</roomimage>
+		</room>
+		<room name="DeluxeRoom2QueenBed" roomcount="8" roomprice="399">
+			<roomimage>/Hotels/GatewayCanyonsResortAndSpa/DeluxeRoom2QueenBed/image1.jpg</roomimage>
+		</room>
+		<room name="PremiumRoom1KingBed" roomcount="8" roomprice="420">
+			<roomimage>/Hotels/GatewayCanyonsResortAndSpa/PremiumRoom1KingBed/image1.jpg</roomimage>
+		</room>
+		<room name="PremiumRoom2QueenBed" roomcount="8" roomprice="599">
+			<roomimage>/Hotels/GatewayCanyonsResortAndSpa/PremiumRoom2QueenBed/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/GatewayCanyonsResortAndSpa/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/GatewayCanyonsResortAndSpa/image2.jpg</hotelimage>
+		<hotelimage>/Hotels/GatewayCanyonsResortAndSpa/image3.jpg</hotelimage>
+		<hotelimage>/Hotels/GatewayCanyonsResortAndSpa/image4.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>81522</pincode>
+	<address1>43200 CO 141</address1>
+	<address2></address2>
+	<city>Gateway</city>
+	<state>Colorado</state>
+	<phonenumber>9709312458</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="GrandBohemianHotelOrlandoAutographCollection" retailer="ReserveMyRoom">
+	<name>Grand Bohemian Hotel Orlando Autograph Collection</name>
+	<rooms>
+		<room name="Standard" roomcount="30" roomprice="275">
+			<roomimage>/Hotels/GrandBohemianHotelOrlandoAutographCollection/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/GrandBohemianHotelOrlandoAutographCollection/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/GrandBohemianHotelOrlandoAutographCollection/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>32801</pincode>
+	<address1>325 Orange Ave</address1>
+	<address2></address2>
+	<city>Orlando</city>
+	<state>Florida</state>
+	<phonenumber>4073139000</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="GrandHyattTampaBay" retailer="ReserveMyRoom">
+	<name>Grand Hyatt Tampa Bay</name>
+	<rooms>
+		<room name="Standard" roomcount="18" roomprice="285">
+			<roomimage>/Hotels/GrandHyattTampaBay/Standard/image1.jpg</roomimage>
+		</room>
+		<room name="Villa" roomcount="25" roomprice="315">
+			<roomimage>/Hotels/GrandHyattTampaBay/Villa/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/GrandHyattTampaBay/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/GrandHyattTampaBay/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>33607</pincode>
+	<address1>2900 Bayport Dr</address1>
+	<address2></address2>
+	<city>Tampa</city>
+	<state>Florida</state>
+	<phonenumber>8138741234</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="HamptonInnCharlotteUptown" retailer="ReserveMyRoom">
+	<name>Hampton Inn Charlotte Uptown</name>
+	<rooms>
+		<room name="Deluxe" roomcount="35" roomprice="350">
+			<roomimage>/Hotels/HamptonInnCharlotteUptown/Deluxe/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/HamptonInnCharlotteUptown/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>28202</pincode>
+	<address1>530 E M.L.K. Jr Blvd</address1>
+	<address2></address2>
+	<city>Charlotte</city>
+	<state>North Carolina</state>
+	<phonenumber>7043730917</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="HiltonArlington" retailer="ReserveMyRoom">
+	<name>Hilton Arlington</name>
+	<rooms>
+		<room name="Deluxe" roomcount="25" roomprice="420">
+			<roomimage>/Hotels/HiltonArlington/Deluxe/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/HiltonArlington/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>22203</pincode>
+	<address1>950 N Stafford St</address1>
+	<address2></address2>
+	<city>Arlington</city>
+	<state>Virginia</state>
+	<phonenumber>7035286000</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="HiltonClearwaterBeach" retailer="ReserveMyRoom">
+	<name>Hilton Clearwater Beach</name>
+	<rooms>
+		<room name="JuniorSuite" roomcount="20" roomprice="160">
+			<roomimage>/Hotels/HiltonClearwaterBeach/JuniorSuite/image1.jpg</roomimage>
+		</room>
+		<room name="InteriorRoom" roomcount="15" roomprice="240">
+			<roomimage>/Hotels/HiltonClearwaterBeach/InteriorRoom/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/HiltonClearwaterBeach/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/HiltonClearwaterBeach/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>33767</pincode>
+	<address1>400 Mandalay Ave</address1>
+	<address2></address2>
+	<city>Clearwater Beach</city>
+	<state>Florida</state>
+	<phonenumber>7274613222</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="HiltonSanFranciscoUnionSquare" retailer="ReserveMyRoom">
+	<name>Hilton San Francisco Union Square</name>
+	<rooms>
+		<room name="Classic" roomcount="25" roomprice="220">
+			<roomimage>/Hotels/HiltonSanFranciscoUnionSquare/Classic/image1.jpg</roomimage>
+		</room>
+		<room name="Suite" roomcount="18" roomprice="420">
+			<roomimage>/Hotels/HiltonSanFranciscoUnionSquare/Suite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/HiltonSanFranciscoUnionSquare/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/HiltonSanFranciscoUnionSquare/image2.jpg</hotelimage>
+		<hotelimage>/Hotels/HiltonSanFranciscoUnionSquare/image3.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>94102</pincode>
+	<address1>333 O Farrell St</address1>
+	<address2></address2>
+	<city>San Francisco</city>
+	<state>California</state>
+	<phonenumber>4157711400</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="HolidayInnExpressSuitesTexasCity" retailer="ReserveMyRoom">
+	<name>Holiday Inn Express Suites Texas City</name>
+	<rooms>
+		<room name="Standard" roomcount="25" roomprice="330">
+			<roomimage>/Hotels/HolidayInnExpressSuitesTexasCity/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/HolidayInnExpressSuitesTexasCity/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/HolidayInnExpressSuitesTexasCity/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>77591</pincode>
+	<address1>2440 Gulf Fwy</address1>
+	<address2></address2>
+	<city>Texas City</city>
+	<state>Texas</state>
+	<phonenumber>4099866700</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="Hyatt" retailer="ReserveMyRoom">
+	<name>Hyatt International</name>
+	<rooms>
+		<room name="DeluxeGuestRoom" roomcount="8" roomprice="175">
+			<roomimage>/Hotels/Hyatt/A/image1.jpg</roomimage>
+		</room>
+		<room name="OceanDeluxeGuestRoom" roomcount="10" roomprice="250">
+			<roomimage>/Hotels/Hyatt/B/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/Hyatt/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>10025</pincode>
+	<address1>35th Street</address1>
+	<address2>Cliff side Park</address2>
+	<city>New York</city>
+	<state>New York</state>
+	<phonenumber>6461599292</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="Langham" retailer="ReserveMyRoom">
+	<name>Langham Corporation</name>
+	<rooms>
+		<room name="DeluxeGuestRoom" roomcount="11" roomprice="275">
+			<roomimage>/Hotels/Langham/Classic/image1.jpg</roomimage>
+		</room>
+		<room name="SpecialDeluxeGuestRoom" roomcount="9" roomprice="220">
+			<roomimage>/Hotels/Langham/ClubRoom/image1.jpg</roomimage>
+			<roomimage>/Hotels/Langham/ClubRoom/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/Langham/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/Langham/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>07950</pincode>
+	<address1>10 East</address1>
+	<address2>Park Drive</address2>
+	<city>New Jersey</city>
+	<state>New Jersey</state>
+	<phonenumber>5461599292</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="MagnoliaHotelDallasDowntown" retailer="ReserveMyRoom">
+	<name>MagnoliaHotelDallasDowntown</name>
+	<rooms>
+		<room name="SpecialSuiteRoom" roomcount="20" roomprice="195">
+			<roomimage>/Hotels/MagnoliaHotelDallasDowntown/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/MagnoliaHotelDallasDowntown/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/MagnoliaHotelDallasDowntown/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>No</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>75205</pincode>
+	<address1>Michigan Avenue</address1>
+	<address2>Wall nut Hill Lane</address2>
+	<city>Dallas</city>
+	<state>Texas</state>
+	<phonenumber>2451599292</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="ManchesterGrand" retailer="ReserveMyRoom">
+	<name>ManchesterGrand</name>
+	<rooms>
+		<room name="Standard" roomcount="15" roomprice="220">
+			<roomimage>/Hotels/ManchesterGrand/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/ManchesterGrand/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>60616</pincode>
+	<address1>21st Street</address1>
+	<address2>Madison Avenue</address2>
+	<city>Chicago</city>
+	<state>Illinois</state>
+	<phonenumber>34213139876</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="MandarinOriental" retailer="ReserveMyRoom">
+	<name>MandarinOriental</name>
+	<rooms>
+		<room name="DeluxeBay" roomcount="12" roomprice="189">
+			<roomimage>/Hotels/MandarinOriental/DeluxeBay/image1.jpg</roomimage>
+			<roomimage>/Hotels/MandarinOriental/DeluxeBay/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/MandarinOriental/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/MandarinOriental/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>87106</pincode>
+	<address1>Hanson Towers</address1>
+	<address2>Grand Blvd NorthEast</address2>
+	<city>Albuquerque</city>
+	<state>New Mexico</state>
+	<phonenumber>8901124512</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="NayaraSprings" retailer="ReserveMyRoom">
+	<name>NayaraSprings</name>
+	<rooms>
+		<room name="Double" roomcount="8" roomprice="219">
+			<roomimage>/Hotels/NayaraSprings/Double/image1.jpg</roomimage>
+		</room>
+		<room name="Single" roomcount="11" roomprice="239">
+			<roomimage>/Hotels/NayaraSprings/Single/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/NayaraSprings/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>No</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>85007</pincode>
+	<address1>Thomson Towers</address1>
+	<address2>N36th Street</address2>
+	<city>Phoenix</city>
+	<state>Arizona</state>
+	<phonenumber>6541124512</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="PacificTerrace" retailer="ReserveMyRoom">
+	<name>PacificTerrace</name>
+	<rooms>
+		<room name="FamilySuite" roomcount="8" roomprice="219">
+			<roomimage>/Hotels/PacificTerrace/FamilySuite/image1.jpg</roomimage>
+		</room>
+		<room name="JuniorSuite" roomcount="11" roomprice="239">
+			<roomimage>/Hotels/PacificTerrace/JuniorSuite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/PacificTerrace/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/PacificTerrace/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>89119</pincode>
+	<address1>Canyon Apartments</address1>
+	<address2>Paradise</address2>
+	<city>Henderson</city>
+	<state>Las Vegas</state>
+	<phonenumber>3141124512</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="Paris" retailer="ReserveMyRoom">
+	<name>Paris</name>
+	<rooms>
+		<room name="ClassicSuite" roomcount="12" roomprice="239">
+			<roomimage>/Hotels/Paris/ClassicSuite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/PacificTerrace/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>95818</pincode>
+	<address1>Canyon Apartments</address1>
+	<address2>Capito Mall</address2>
+	<city>Sacramento</city>
+	<state>California</state>
+	<phonenumber>4511124512</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="ParkCentralHotel" retailer="ReserveMyRoom">
+	<name>ParkCentralHotel</name>
+	<rooms>
+		<room name="Classic" roomcount="11" roomprice="198">
+			<roomimage>/Hotels/ParkCentralHotel/Classic/image1.jpg</roomimage>
+		</room>
+		<room name="Deluxe" roomcount="16" roomprice="189">
+			<roomimage>/Hotels/ParkCentralHotel/Deluxe/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/ParkCentralHotel/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/ParkCentralHotel/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>95112</pincode>
+	<address1>Berryessa</address1>
+	<address2>N king Road</address2>
+	<city>San Jose</city>
+	<state>Nevada</state>
+	<phonenumber>9879964512</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="RenaissanceCharlotteSuitesHotel" retailer="ReserveMyRoom">
+	<name>RenaissanceCharlotteSuitesHotel</name>
+	<rooms>
+		<room name="Classic" roomcount="11" roomprice="198">
+			<roomimage>/Hotels/RenaissanceCharlotteSuitesHotel/Classic/image1.jpg</roomimage>
+		</room>
+		<room name="Deluxe" roomcount="16" roomprice="189">
+			<roomimage>/Hotels/RenaissanceCharlotteSuitesHotel/Deluxe/image2.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/RenaissanceCharlotteSuitesHotel/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/RenaissanceCharlotteSuitesHotel/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>84111</pincode>
+	<address1>1300 S</address1>
+	<address2>South Temple</address2>
+	<city>Salt Lake City</city>
+	<state>Utah</state>
+	<phonenumber>7657721785</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="Tajcoramandel" retailer="ReserveMyRoom">
+	<name>Taj Coramandel</name>
+	<rooms>
+		<room name="DeluxeGuestRoom" roomcount="18" roomprice="2250">
+			<roomimage>/Hotels/Tajcoramandel/A/image1.jpg</roomimage>
+		</room>
+		<room name="OceanDeluxeGuestRoom" roomcount="12" roomprice="2510">
+			<roomimage>/Hotels/Tajcoramandel/B/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/Tajcoramandel/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>80903</pincode>
+	<address1>Taj Coramandel Colarado Springs Street 114</address1>
+	<address2></address2>
+	<city>Colorado Springs</city>
+	<state>Uttah</state>
+	<phonenumber>3126475816</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="TajFalaknumaPalace" retailer="ReserveMyRoom">
+	<name>Taj Falaknuma Palace</name>
+	<rooms>
+		<room name="LuxaryRooms" roomcount="11" roomprice="186">
+			<roomimage>/Hotels/TajFalaknumaPalace/LuxaryRooms/image1.jpg</roomimage>
+			<roomimage>/Hotels/TajFalaknumaPalace/LuxaryRooms/image2.jpg</roomimage>
+			<roomimage>/Hotels/TajFalaknumaPalace/LuxaryRooms/image3.jpg</roomimage>
+		</room>
+		<room name="PalaceRooms" roomcount="12" roomprice="200">
+			<roomimage>/Hotels/TajFalaknumaPalace/PalaceRooms/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/TajFalaknumaPalace/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/TajFalaknumaPalace/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>80903</pincode>
+	<address1>Taj Falaknuma Palace colorado srpings street 113</address1>
+	<address2></address2>
+	<city>Colorado Springs</city>
+	<state>Uttah</state>
+	<phonenumber>4351577890</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="TheBrewhouseInnSuites" retailer="ReserveMyRoom">
+	<name>The Brewhouse InnSuites</name>
+	<rooms>
+		<room name="OneBedroomKingSuite" roomcount="8" roomprice="55">
+			<roomimage>/Hotels/TheBrewhouseInnSuites/OneBedroomKingSuite/image1.jpg</roomimage>
+		</room>
+		<room name="StudioSuite" roomcount="81" roomprice="515">
+			<roomimage>/Hotels/TheBrewhouseInnSuites/StudioSuite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/TheBrewhouseInnSuites/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>80903</pincode>
+	<address1>The Brewhouse InnSuites Colorado Springs street 123</address1>
+	<address2></address2>
+	<city>Colorado Springs</city>
+	<state>Uttah</state>
+	<phonenumber>7026937221</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="TheLeelaPalace" retailer="ReserveMyRoom">
+	<name>The Leela Palace</name>
+	<rooms>
+		<room name="DeluxeSuite" roomcount="25" roomprice="1750">
+			<roomimage>/Hotels/TheLeelaPalace/DeluxeSuite/image1.jpg</roomimage>
+		</room>
+		<room name="MaharajaSuite" roomcount="15" roomprice="1758">
+			<roomimage>/Hotels/TheLeelaPalace/MaharajaSuite/image1.jpg</roomimage>
+		</room>
+		<room name="RoyalSuite" roomcount="15" roomprice="2350">
+			<roomimage>/Hotels/TheLeelaPalace/RoyalSuite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/TheLeelaPalace/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/TheLeelaPalace/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>55902</pincode>
+	<address1>50 Park Plaza</address1>
+	<address2>The Leela Palace Rochester, ham street 134</address2>
+	<city>Rochester</city>
+	<state>New York</state>
+	<phonenumber>6174262160</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="ThePodHotel51" retailer="ReserveMyRoom">
+	<name>The PodHotel 51</name>
+	<rooms>
+		<room name="Standard" roomcount="12" roomprice="125">
+			<roomimage>/Hotels/ThePodHotel51/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/ThePodHotel51/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/ThePodHotel51/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>55902</pincode>
+	<address1>The Pod Hotel 51 ,Blvd ,street 415</address1>
+	<address2></address2>
+	<city>Rochester</city>
+	<state>New York</state>
+	<phonenumber>8662275890</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="TheRitzCarltonSanJuan" retailer="ReserveMyRoom">
+	<name>The Ritz Carlton SanJuan</name>
+	<rooms>
+		<room name="Standard" roomcount="13" roomprice="223">
+			<roomimage>/Hotels/TheRitzCarltonSanJuan/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/TheRitzCarltonSanJuan/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/TheRitzCarltonSanJuan/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>89109</pincode>
+	<address1>The Ritz Carlton SanJuan ,blvd ,88 street</address1>
+	<address2></address2>
+	<city>Rochester</city>
+	<state>New York</state>
+	<phonenumber>8006343530</phonenumber>
+	<onSale>No</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="TheWestinCharlotte" retailer="ReserveMyRoom">
+	<name>The Westin Charlotte</name>
+	<rooms>
+		<room name="Deluxe" roomcount="18" roomprice="249">
+			<roomimage>/Hotels/TheWestinCharlotte/Standard/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/TheWestinCharlotte/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/TheWestinCharlotte/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>No</restaurant>
+	<pincode>89109</pincode>
+	<address1>50 W Washington St</address1>
+	<address2>The Westin Charlotte, north avenue,street 132</address2>
+	<city>Rochester</city>
+	<state>New York</state>
+	<phonenumber>3177135230</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>No</rebate>
+</hotel>
+<hotel id="TripleCreekRanch" retailer="ReserveMyRoom">
+	<name>Triple Creek Ranch Hotel</name>
+	<rooms>
+		<room name="Double" roomcount="34" roomprice="188">
+			<roomimage>/Hotels/TripleCreekRanch/Double/image1.jpg</roomimage>
+		</room>
+		<room name="Single" roomcount="32" roomprice="107">
+			<roomimage>/Hotels/TripleCreekRanch/Single/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/TripleCreekRanch/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>No</wifi>
+	<restaurant>No</restaurant>
+	<pincode>62666</pincode>
+	<address1>1152 east avenue </address1>
+	<address2>Triple Creek Ranch Hotel street 158</address2>
+	<city>Chicago</city>
+	<state>Illinois</state>
+	<phonenumber>71477866234</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="TrumpInternationalHotelTower" retailer="ReserveMyRoom">
+	<name>Trump International HotelTower</name>
+	<rooms>
+		<room name="DeluxeCityViewOneBedroomSuite" roomcount="13" roomprice="497.33">
+			<roomimage>/Hotels/TrumpInternationalHotelTower/DeluxeCityViewOneBedroomSuite/image1.jpg</roomimage>
+		</room>
+		<room name="DeluxeCityViewRoom" roomcount="22" roomprice="313.33">
+			<roomimage>/Hotels/TrumpInternationalHotelTower/DeluxeCityViewRoom/image1.jpg</roomimage>
+		</room>
+		<room name="DeluxeRiverViewOneBedroomSuite" roomcount="19" roomprice="544.00">
+			<roomimage>/Hotels/TrumpInternationalHotelTower/DeluxeRiverViewOneBedroomSuite/image1.jpg</roomimage>
+		</room>
+		<room name="GrandeDeluxeLakeviewTwoBedroomSuite" roomcount="16" roomprice="830.67">
+			<roomimage>/Hotels/TrumpInternationalHotelTower/GrandeDeluxeLakeviewTwoBedroomSuite/image1.jpg</roomimage>
+		</room>
+		<room name="SpaDeluxeRoom" roomcount="28" roomprice="340.00">
+			<roomimage>/Hotels/TrumpInternationalHotelTower/SpaDeluxeRoom/image1.jpg</roomimage>
+			<roomimage>/Hotels/TrumpInternationalHotelTower/SpaDeluxeRoom/image2.jpg</roomimage>
+		</room>
+		<room name="SpaGrandDeluxeRoom" roomcount="25" roomprice="337.33">
+			<roomimage>/Hotels/TrumpInternationalHotelTower/SpaGrandDeluxeRoom/image1.jpg</roomimage>
+		</room>
+		<room name="SuperiorRoom" roomcount="35" roomprice="297.33">
+			<roomimage>/Hotels/TrumpInternationalHotelTower/SuperiorRoom/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/TrumpInternationalHotelTower/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/TrumpInternationalHotelTower/image2.jpg</hotelimage>
+		<hotelimage>/Hotels/TrumpInternationalHotelTower/image3.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>60611</pincode>
+	<address1>401 N Wabash Ave</address1>
+	<address2>street 123</address2>
+	<city>Chicago</city>
+	<state>Illinois</state>
+	<phonenumber>2014992560</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="Westin" retailer="ReserveMyRoom">
+	<name>Westin</name>
+	<rooms>
+		<room name="Deluxe" roomcount="13" roomprice="410">
+			<roomimage>/Hotels/Westin/Deluxe/image1.jpg</roomimage>
+		</room>
+		<room name="ExecutiveSuite" roomcount="15" roomprice="540">
+			<roomimage>/Hotels/Westin/ExecutiveSuite/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/Westin/image1.jpg</hotelimage>
+		<hotelimage>/Hotels/Westin/image2.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>62666</pincode>
+	<address1>445 W 15th St</address1>
+	<address2>Westin street 120</address2>
+	<city>Chicago</city>
+	<state>Illinois</state>
+	<phonenumber>5124787244</phonenumber>
+	<onSale>Yes</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+<hotel id="WyndhamGrand" retailer="ReserveMyRoom">
+	<name>Wyndham Grand</name>
+	<rooms>
+		<room name="Deluxe" roomcount="23" roomprice="1210">
+			<roomimage>/Hotels/WyndhamGrand/Deluxe/image1.jpg</roomimage>
+		</room>
+	</rooms>
+	<hotelimages>
+		<hotelimage>/Hotels/WyndhamGrand/image1.jpg</hotelimage>
+	</hotelimages>
+	<wifi>Yes</wifi>
+	<restaurant>Yes</restaurant>
+	<pincode>62666</pincode>
+	<address1>446 E 15th St</address1>
+	<address2>Wyndham Grand street 160</address2>
+	<city>Chicago</city>
+	<state>Illinois</state>
+	<phonenumber>5124787244</phonenumber>
+	<onSale>No</onSale>
+	<rebate>Yes</rebate>
+</hotel>
+</HotelCatalog>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE xml>
+<states>
+<state name="Alabama" code="AL" />
+<state name="Alaska" code="AK" />
+<state name="Arizona" code="AZ" />
+<state name="Arkansas" code="AR" />
+<state name="California" code="CA" />
+<state name="Colorado" code="CO" />
+<state name="Connecticut" code="CT" />
+<state name="Delaware" code="DE" />
+<state name="Florida" code="FL" />
+<state name="Georgia" code="GA" />
+<state name="Hawaii" code="HI" />
+<state name="Idaho" code="ID" />
+<state name="Illinois" code="IL" />
+<state name="Indiana" code="IN" />
+<state name="Iowa" code="IA" />
+<state name="Kansas" code="KS" />
+<state name="Kentucky" code="KY" />
+<state name="Louisiana" code="LA" />
+<state name="Maine" code="ME" />
+<state name="Maryland" code="MD" />
+<state name="Massachusetts" code="MA" />
+<state name="Michigan" code="MI" />
+<state name="Minnesota" code="MN" />
+<state name="Mississippi" code="MS" />
+<state name="Missouri" code="MO" />
+<state name="Montana" code="MT" />
+<state name="Nebraska" code="NE" />
+<state name="Nevada" code="NV" />
+<state name="New Hampshire" code="NH" />
+<state name="New Jersey" code="NJ" />
+<state name="New Mexico" code="NM" />
+<state name="New York" code="NY" />
+<state name="North Carolina" code="NC" />
+<state name="North Dakota" code="ND" />
+<state name="Ohio" code="OH" />
+<state name="Oklahoma" code="OK" />
+<state name="Oregon" code="OR" />
+<state name="Pennsylvania" code="PA" />
+<state name="Rhode Island" code="RI" />
+<state name="South Carolina" code="SC" />
+<state name="South Dakota" code="SD" />
+<state name="Tennessee" code="TN" />
+<state name="Texas" code="TX" />
+<state name="Utah" code="UT" />
+<state name="Vermont" code="VT" />
+<state name="Virginia" code="VA" />
+<state name="Washington" code="WA" />
+<state name="West Virginia" code="WV" />
+<state name="Wisconsin" code="WI" />
+<state name="Wyoming" code="WY" />
+</states>

@@ -1,0 +1,35 @@
+Please edit the below mentioned variables within /EWAProject/WEB-INF/classes/DataAccess/MySQLDataStoreUtilities.java in order to connect to the database.
+
+String conString = "jdbc:mysql://localhost:1111/ReserveMyRoomDB?useSSL=false";
+String username = "";
+String pwd = "";
+
+A customer account with below mentioned credentials will be created automatically to insert sample orders into the database.
+	username - user1
+	pwd - user1
+Below are the DDL commands using in this application. The application is designed to detect and create database and tables if they do not exist within mysql database.
+
+CREATE DATABASE IF NOT EXISTS ReserveMyRoomDB;
+
+USE ReserveMyRoomDB;
+
+CREATE TABLE IF NOT EXISTS users(userType varchar(255) NOT NULL,username varchar(255) NOT NULL,firstName varchar(255) DEFAULT NULL,lastName varchar(255) DEFAULT NULL,address varchar(255) DEFAULT NULL,zipcode int(11) DEFAULT NULL,emailID varchar(255) DEFAULT NULL,dob varchar(20) DEFAULT NULL,password varchar(255) NOT NULL,PRIMARY KEY(username));
+
+CREATE TABLE IF NOT EXISTS hotels(hotelID varchar(255) NOT NULL,retailer varchar(255) NOT NULL,hotelName varchar(255) NOT NULL,wifi TINYINT(1) NOT NULL,restaurant TINYINT(1) NOT NULL,zipcode int(11) NOT NULL,address1 varchar(255) NOT NULL,address2 varchar(255) DEFAULT NULL,city varchar(255) NOT NULL,state varchar(255) NOT NULL,phoneNumber varchar(255) DEFAULT NULL,onSale TINYINT(1) NOT NULL,rebate TINYINT(1) NOT NULL,PRIMARY KEY(hotelID));
+
+CREATE TABLE IF NOT EXISTS rooms(hotelID varchar(255) NOT NULL,roomName varchar(255) NOT NULL,roomCount int(11) NOT NULL,roomPrice double NOT NULL);
+
+CREATE TABLE IF NOT EXISTS roomimages(hotelID varchar(255) NOT NULL,roomName varchar(255) NOT NULL,image varchar(255) NOT NULL);
+
+CREATE TABLE IF NOT EXISTS hotelimages(hotelID varchar(255) NOT NULL,image varchar(255) NOT NULL);
+
+CREATE TABLE IF NOT EXISTS reservations(customerName varchar(255) DEFAULT NULL,username varchar(255) NOT NULL,reservationDate date NOT NULL,reservationID int(20) NOT NULL,totalPrice double(20,2) NOT NULL,state varchar(255) DEFAULT NULL,address1 varchar(255) DEFAULT NULL,address2 varchar(255) DEFAULT NULL,city varchar(255) DEFAULT NULL, zipCode int(11) DEFAULT NULL,mobileNumber varchar(255) DEFAULT NULL,emailAddress varchar(255) DEFAULT NULL,PRIMARY KEY(reservationID));
+
+CREATE TABLE IF NOT EXISTS reservationhotelslist(reservationID int(20) NOT NULL,hotelID varchar(255) NOT NULL,roomName varchar(255) NOT NULL,checkInDate date NOT NULL,checkOutDate date NOT NULL,guestCount int(11) NOT NULL);
+
+CREATE TABLE IF NOT EXISTS cities(cityName varchar(255) NOT NULL,stateID varchar(255) NOT NULL,stateName varchar(255) NOT NULL,zipCode int(11) NOT NULL,PRIMARY KEY(cityName,zipCode));
+
+CREATE OR REPLACE VIEW inventory as select hotels.hotelID,hotelName,roomName,roomPrice,roomCount,onSale,rebate from hotels,rooms where hotels.hotelID = rooms.hotelID;
+
+
+

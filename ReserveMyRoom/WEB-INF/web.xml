@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="true">
+
+  <display-name>csj</display-name>
+  <welcome-file-list>
+    <welcome-file>Controller/HomeServlet</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+	<servlet-name>HomeServlet</servlet-name>
+	<servlet-class>Controller.HomeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>HomeServlet</servlet-name>
+	<url-pattern>/Controller/HomeServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>HtmlEngine</servlet-name>
+	<servlet-class>Controller.HtmlEngine</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>HtmlEngine</servlet-name>
+	<url-pattern>/Controller/HtmlEngine</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>LoginServlet</servlet-name>
+	<servlet-class>Controller.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>LoginServlet</servlet-name>
+	<url-pattern>/Controller/LoginServlet</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+	<servlet-name>LogoutServlet</servlet-name>
+	<servlet-class>Controller.LogoutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>LogoutServlet</servlet-name>
+	<url-pattern>/Controller/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>RegisterServlet</servlet-name>
+	<servlet-class>Controller.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>RegisterServlet</servlet-name>
+	<url-pattern>/Controller/RegisterServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>RoomTypeServlet</servlet-name>
+	<servlet-class>Controller.RoomTypeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>RoomTypeServlet</servlet-name>
+	<url-pattern>/Controller/RoomTypeServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>AjaxUtility</servlet-name>
+	<servlet-class>Controller.AjaxUtility</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>AjaxUtility</servlet-name>
+	<url-pattern>/Controller/AjaxUtility</url-pattern>
+  </servlet-mapping>
+ 
+  <servlet>
+	<servlet-name>DisplayHotel</servlet-name>
+	<servlet-class>Controller.DisplayHotel</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DisplayHotel</servlet-name>
+	<url-pattern>/Controller/DisplayHotel</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+	<servlet-name>BookHotel</servlet-name>
+	<servlet-class>Controller.BookHotel</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>BookHotel</servlet-name>
+	<url-pattern>/Controller/BookHotel</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ReservationServlet</servlet-name>
+	<servlet-class>Controller.ReservationServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ReservationServlet</servlet-name>
+	<url-pattern>/Controller/ReservationServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>CityAutoComplete</servlet-name>
+	<servlet-class>Controller.CityAutoComplete</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>CityAutoComplete</servlet-name>
+	<url-pattern>/Controller/CityAutoComplete</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ReserveHotel</servlet-name>
+	<servlet-class>Controller.ReserveHotel</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ReserveHotel</servlet-name>
+	<url-pattern>/Controller/ReserveHotel</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>MyListServlet</servlet-name>
+	<servlet-class>Controller.MyListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>MyListServlet</servlet-name>
+	<url-pattern>/Controller/MyListServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>HotelListServlet</servlet-name>
+	<servlet-class>Controller.HotelListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>HotelListServlet</servlet-name>
+	<url-pattern>/Controller/HotelListServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>HotelReviews</servlet-name>
+	<servlet-class>Controller.HotelReviews</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>HotelReviews</servlet-name>
+	<url-pattern>/Controller/HotelReviews</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>SalesmanServlet</servlet-name>
+	<servlet-class>Controller.SalesmanServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>SalesmanServlet</servlet-name>
+	<url-pattern>/Controller/SalesmanServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ManagerServlet</servlet-name>
+	<servlet-class>Controller.ManagerServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ManagerServlet</servlet-name>
+	<url-pattern>/Controller/ManagerServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>InventorySalesServlet</servlet-name>
+	<servlet-class>Controller.InventorySalesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>InventorySalesServlet</servlet-name>
+	<url-pattern>/Controller/InventorySalesServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>ChartServlet</servlet-name>
+	<servlet-class>Controller.ChartServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>ChartServlet</servlet-name>
+	<url-pattern>/Controller/ChartServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>SalesChart</servlet-name>
+	<servlet-class>Controller.SalesChart</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>SalesChart</servlet-name>
+	<url-pattern>/Controller/SalesChart</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DataAnalyticsServlet</servlet-name>
+	<servlet-class>Controller.DataAnalyticsServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DataAnalyticsServlet</servlet-name>
+	<url-pattern>/Controller/DataAnalyticsServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DataExplorationServlet</servlet-name>
+	<servlet-class>Controller.DataExplorationServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DataExplorationServlet</servlet-name>
+	<url-pattern>/Controller/DataExplorationServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>DataExplorationUtility</servlet-name>
+	<servlet-class>Controller.DataExplorationUtility</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>DataExplorationUtility</servlet-name>
+	<url-pattern>/Controller/DataExplorationUtility</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+	<servlet-name>TrendingChart</servlet-name>
+	<servlet-class>Controller.TrendingChart</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>TrendingChart</servlet-name>
+	<url-pattern>/Controller/TrendingChart</url-pattern>
+  </servlet-mapping>
+  
+  <session-config>
+	<session-timeout>
+		30
+	</session-timeout>
+  </session-config>
+
+</web-app>
